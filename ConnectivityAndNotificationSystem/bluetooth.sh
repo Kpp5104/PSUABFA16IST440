@@ -55,4 +55,28 @@ cat /etc/group | grep bluetooth
 	if [ "$?" = "1" ]; then
 		echo "no bluetooth activity found" 1>&2
 		exit 1
-	fi
+	fi	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+sudo bluex-test-device list
+
+sudo pend -c device address
